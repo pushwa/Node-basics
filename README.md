@@ -1,6 +1,6 @@
-# NODE BASICS
+# NODE BASICS GET / POST
 
-Node basics
+Node basics, get and post req
 
 ## npm
 
